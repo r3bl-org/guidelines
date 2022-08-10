@@ -1,0 +1,4 @@
+- TK: Get inspiration from <https://www.rust-lang.org/policies/code-of-conduct>
+- TK: Add specifics around self & mutual respect in communication
+  - don't tell / command / order, ask
+  - default is respect for your own voice, and thus respect for other's voices
